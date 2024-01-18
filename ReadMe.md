@@ -12,7 +12,7 @@ Discord:  https://discord.com/invite/XGSczQaDR8 <br>
 Telegram: https://t.me/fixitgearwareSecurity <br>
 
 
-<h2>Who can use this script ?</h2>
+<h2>Who can use this script ?</h2> Whomever wants ...
 
 <li> To Generate payload in Brute-Forcing each character that exist in a database, Either for your automation scripts, or Burpsuite.</li>
 <li>To Generate payload for all ASCII characters.</li>
